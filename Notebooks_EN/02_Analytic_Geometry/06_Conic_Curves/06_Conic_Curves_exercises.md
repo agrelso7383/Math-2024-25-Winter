@@ -1,5 +1,5 @@
 
-##Find the equation of a circle with center at point A(1,2) and radius r=3.
+## Find the equation of a circle with center at point A(1,2) and radius r=3.
 
 The general equation of a circle is given by: $(x-h)^2+(y-k)^2=r^2$
  
@@ -7,7 +7,7 @@ Here, h=1, k=2, and r=3. Substituting these values: $(x-1)^2+(y-2)^2=9$
 
 
 
-##Find the equation of a parabola intersecting the Ox-axis at points x=2, x=4, and passing through point (3,1).
+## Find the equation of a parabola intersecting the Ox-axis at points x=2, x=4, and passing through point (3,1).
 
 The general form of a parabola passing through roots x=r1 and x=r2 is: 
 
@@ -25,7 +25,7 @@ y=−(x−2)(x−4)
 
 
 
-##Find the center of the ellipse with the equation $x^2+4y^2-4x-16y+16=0$
+## Find the center of the ellipse with the equation $x^2+4y^2-4x-16y+16=0$
 
 The equation of the ellipse can be rewritten in standard form by completing the square. 
 
@@ -43,7 +43,7 @@ $(x−2) ^2+4(y-2)^2=4$
 
 The center of the ellipse is (2,2).
 
-##Find the slope (m>0) of the line y=mx−5 that is tangent to the circle $x^2+y^2=1$
+## Find the slope (m>0) of the line y=mx−5 that is tangent to the circle $x^2+y^2=1$
 
 The condition for tangency is that the discriminant of the quadratic equation formed after substitution equals zero.
 
@@ -57,7 +57,7 @@ Solve for m:
 $m=\sqrt{24}$
  
 
-##Find the intersection points of the hyperbola $x^2-y^2=1$ with the ellipse $x^2+4y^2=6$
+## Find the intersection points of the hyperbola $x^2-y^2=1$ with the ellipse $x^2+4y^2=6$
 
 The equations are:
 
@@ -77,17 +77,15 @@ $(y^2+1)+4y^2=6 ⟹ 5y^2=5 ⟹ y^2=1  $
 Find x and y:
 
 y=±1,x=± 2
-
-​
  
 The intersection points are 
 
 (± 2,±1).
 
 
-##6 For the given hyperbola $x^2-y^2=1$, find the distance between its branches.
+## For the given hyperbola $x^2-y^2=1$, find the distance between its branches.
 
 The distance between the branches at a given y=k is:
 
-$Distance 2(\sqrt{1+k^2})$
+$Distance= 2(\sqrt{1+k^2})$
  
