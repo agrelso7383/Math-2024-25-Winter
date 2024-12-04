@@ -24,6 +24,7 @@ The equation becomes:
 
 y=−(x−2)(x−4)
 
+![Parabola generated](Exercises_Mathematics/Parabola_2.png)
 
 
 ## Find the center of the ellipse with the equation $x^2+4y^2-4x-16y+16=0$
@@ -44,6 +45,9 @@ $(x−2) ^2+4(y-2)^2=4$
 
 The center of the ellipse is (2,2).
 
+![Ellipse generated](Exercises_Mathematics/Ellipse_3.png)
+
+
 ## Find the slope (m>0) of the line y=mx−5 that is tangent to the circle $x^2+y^2=1$
 
 The condition for tangency is that the discriminant of the quadratic equation formed after substitution equals zero.
@@ -56,7 +60,9 @@ $Discriminant=4m^2-96=0$
 
 Solve for m:
 $m=\sqrt{24}$
- 
+
+ ![Slope generated](Exercises_Mathematics/Slope_4.png)
+
 
 ## Find the intersection points of the hyperbola $x^2-y^2=1$ with the ellipse $x^2+4y^2=6$
 
@@ -83,10 +89,13 @@ The intersection points are
 
 (± 2,±1).
 
+![Intersection points generated](Exercises_Mathematics/Intersection_5.png)
 
 ## For the given hyperbola $x^2-y^2=1$, find the distance between its branches.
 
 The distance between the branches at a given y=k is:
 
 $Distance= 2(\sqrt{1+k^2})$
+
+![Distance generated](Exercises_Mathematics/Distance_6.png)
  
