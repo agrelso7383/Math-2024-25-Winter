@@ -5,6 +5,7 @@ The general equation of a circle is given by: $(x-h)^2+(y-k)^2=r^2$
  
 Here, h=1, k=2, and r=3. Substituting these values: $(x-1)^2+(y-2)^2=9$
 
+![Círcle generated](Circle_1.png)
 
 
 ## Find the equation of a parabola intersecting the Ox-axis at points x=2, x=4, and passing through point (3,1).
