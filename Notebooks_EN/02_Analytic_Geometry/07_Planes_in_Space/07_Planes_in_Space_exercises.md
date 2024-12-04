@@ -31,6 +31,9 @@ The equation of the plane becomes:
 4x - 4y - 4z + 16 = 0 --> x - y - z + 4 = 0
 \]
 
+![Equation generated](Exercises_Mathematics/Equation_1.png)
+
+
 ## Equation of a Plane Parallel to Another Plane
 
 We are given a plane with the equation:
@@ -61,6 +64,8 @@ The equation of the new plane is:
 2x + 3y + 4z - 20 = 0
 \]
 
+![Equation generated](Exercises_Mathematics/Equation_2.png)
+
 ## Equation of a Plane Perpendicular to a Given Normal Vector
 
 In this case, we are given a normal vector [2, 3, 4] and point A(1, 2, 3). 
@@ -82,6 +87,8 @@ The equation of the plane is:
 \[
 2x + 3y + 4z - 20 = 0
 \]
+
+![Equation generated](Exercises_Mathematics/Equation_3.png)
 
 ## Line of Intersection Between Two Planes
 
@@ -121,6 +128,8 @@ y = 1 + 8t
 z = -4t
 \]
 
+![Equation generated](Exercises_Mathematics/Equation_4.png) 
+
 ## Equation of a Plane Parallel to Two Vectors
 
 We are given two vectors v1=[1, 0, 1] and v2=[0, 1, -1] \), and point A(1, 2, 3). The equation of the plane passing through point A and parallel to both vectors is:
@@ -147,6 +156,8 @@ The equation of the plane is:
 -x + y + z = 0 --> x - y - z = 0
 \]
 
+![Equation generated](Exercises_Mathematics/Equation_5.png)
+
 ## Parallel and Perpendicular Planes
 
 We are given the plane:
@@ -166,6 +177,8 @@ For a perpendicular plane, we select a vector [2, 3, 4] and solve for the equati
 \[
 x + y + z = 0
 \]
+
+![Equation generated](Exercises_Mathematics/Equation_6.png)
 
 ## Distance from a Point to a Plane
 
@@ -189,18 +202,44 @@ D =(|2(1) + 3(2) + 4(3) - 5|)/(\sqrt(2^2 + 3^2 + 4^2)) --> (|2 + 6 + 12 - 5|)/(\
 
 The distance from point A to the plane is 3.
 
-## Equation of the Plane Intersecting the Axes
+##Equation of the Plane Intersecting the Axes
 
-We are given three points where the plane intersects the coordinate axes: A(2, 0, 0), B(0, 3, 0), and C(0, 0, 4).
+We are given three points where the plane intersects the coordinate axes:  
+- \( A(2, 0, 0) \)  
+- \( B(0, 3, 0) \)  
+- \( C(0, 0, 4) \)  
 
-To find the equation of the plane, we first calculate the vectors AB and AC. The normal vector to the plane is the cross product of these two vectors:
-
+The vectors AB and AC are:  
 \[
-AB = [-2, 3, 0], AC = [-2, 0, 4]
+{AB} = B - A = [-2, 3, 0]
+\]  
+\[
+{AC} = C - A = [-2, 0, 4]
 \]
 
+The normal vector to the plane is the cross product of AB and AC.
+
+Expanding the determinant:  
 \[
-\mathbf{n} = \mathbf{AB} \times \mathbf{AC} = \begin{vmatrix} \mathbf{i} & \mathbf
+n=i(3·4-0·0)-j(-2·4-(-2·0))+k(-2·0-(-2·3)) --> n=i(12)-j(-8)+k(6) --> n=[12,8,6] 
+\[
+12x + 8y + 6z + d = 0
+\]
+
+Substitute point \( A(2, 0, 0) \) into the equation to find \( d \):  
+\[
+12(2) + 8(0) + 6(0) + d = 0
+\]  
+\[
+24 + d = 0 --> d = -24
+\]
+
+The equation of the plane is:  
+\[
+12x + 8y + 6z - 24 = 0
+\]  
+
+ ![Equation generated](Exercises_Mathematics/Equation_8.png)
 
 ## Angle Between Two Planes
 
@@ -242,3 +281,5 @@ x + y + z = 1
 \]
 
 The normal vector to this plane is  [1, 1, 1], which is also the vector perpendicular to the plane. This vector defines the direction perpendicular to every point on the plane.
+
+![Equation generated](Exercises_Mathematics/Equation_10.png)
