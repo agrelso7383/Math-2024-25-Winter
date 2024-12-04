@@ -17,7 +17,7 @@ Final Equation:
 (x - 1)^2 + (y - 2)^2 + (z - 3)^2 = 9
 \]
 
-![Equation generated](Sphere_1.png)
+![Equation generated](Exercises_Mathematics\Sphere_1.png)
 
 ## Do the Spheres \( x^2 + y^2 + z^2 = 1 \) and \( x^2 + y^2 + z^2 = 2 \) Have Common Points?
 
@@ -25,7 +25,7 @@ Final Equation:
 - Since their radi0 is different, they don't intersect.
 - **Conclusion**: The spheres have no common points.
 
-![Equation generated](Sphere_2.png)
+![Equation generated](Exercises_Mathematics\Sphere_2.png)
 
 ## Intersection of the Spheres \$( x^2 + y^2 + z^2 = 1 \)$ and \$( (x-1)^2 + y^2 + z^2 = 1 \)$
 
@@ -40,7 +40,7 @@ Final Equation of the Curve:
 x = 1/2, $y^2 + z^2 = 3/4$
 \]
 
- ![Equation generated](Sphere_3.png)
+ ![Equation generated](Exercises_Mathematics\Sphere_3.png)
 
 ## Equation of the Tangent Plane to the Paraboloid at \( P = (1, 0, 1) \)
 
@@ -74,4 +74,4 @@ Final Equation of the Tangent Plane:
 \[
 z = 1
 \]
- ![Equation generated](Sphere_4.png)
+ ![Equation generated](Exercises_Mathematics\Sphere_4.png)
