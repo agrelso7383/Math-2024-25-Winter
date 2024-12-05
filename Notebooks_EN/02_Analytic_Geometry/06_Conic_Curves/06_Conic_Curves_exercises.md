@@ -87,7 +87,7 @@ y=±1,x=± 2
  
 The intersection points are 
 
-(± 2,±1).
+$(±(\sqrt{2},±1).$
 
 ![Intersection points generated](Exercises_Mathematics/Intersection_5.png)
 
